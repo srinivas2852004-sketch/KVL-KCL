@@ -23,6 +23,8 @@ Sl. No. Apparatus Specification Quantity
 ## Formula Used: 
 
 ## Circuit Diagram :
+<img width="1266" height="505" alt="image" src="https://github.com/user-attachments/assets/447f21ef-a1b3-48be-bf6a-b950ec248d7c" />
+<img width="1260" height="536" alt="image" src="https://github.com/user-attachments/assets/81db4334-993b-4ab4-9508-483151e27744" />
 
 ## Output Calculation:
 
@@ -30,3 +32,4 @@ Sl. No. Apparatus Specification Quantity
 
 ## Result:  
 
+thus we have verified the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
